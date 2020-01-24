@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">ST-Fashion</string>
+
+    <string name="title_activity_menu">menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="facebook_app_id">1818549031610787</string>
+    <string name="facebook_protocol">fb1818549031610787</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="home_welcome">Welcome to ST-Fashion Application. \n\nStart working now with the menu!</string>
+
+    <string name="params_season">*Season(spring/summer/autumn/winter)</string>
+    <string name="params_color">*Color(black/white/color)</string>
+    <string name="params_search">Search for results</string>
+    <string name="params_share">Share in facebook</string>
+
+    <string name="choose_num">"Uniform number: "</string>
+    <string name="choose_season">"Season: "</string>
+    <string name="choose_color">"Color: "</string>
+
+    <string name="create_top">Choose Top</string>
+    <string name="create_bottom">Choose Bottom</string>
+    <string name="create_shoes">Choose Shoes</string>
+    <string name="create_season">*Outfit season(spring/summer/autumn/winter)</string>
+    <string name="create_color">*Outfit color(black/white/color)</string>
+    <string name="create_save">Save</string>
+    <string name="create_random">Random</string>
+    <string name="create_pictop">(Scroll down for more) \n\n\n\n Top</string>
+    <string name="create_picbottom">Bottom</string>
+    <string name="create_picshoes">Shoes</string>
+
+    <string name="add_device">Add Photo From Device</string>
+    <string name="add_camera">Add Photo Using Camera</string>
+    <string name="add_name">*Item Name</string>
+    <string name="add_type">*Type (top/bottom/shoes)</string>
+    <string name="add_color">*Color(black/white/color)</string>
+    <string name="add_season">*Season(spring/summer/autumn/winter)</string>
+    <string name="add_save">Save Item</string>
+    <string name="add_scroll">(Scroll down to see full picture) \n\n</string>
+
+    <string name="menu_home">ST-Fashion</string>
+    <string name="menu_add_items">Add Items</string>
+    <string name="menu_create">Create Daily Outfit</string>
+    <string name="menu_choose">Choose Existing Outfit</string>
+    <string name="menu_params">Choose Outfit Params</string>
+    <string name="menu_exit">Logout</string>
+    <string name="menu_other">Other</string>
+
+    <string name="signin_btnIn">Sign In</string>
+    <string name="signin_btnUp">Register Now</string>
+    <string name="signin_btnLang">Change Language</string>
+    <string name="signin_textUser">"  *Username"</string>
+    <string name="signin_textPass">"  *Password"</string>
+
+    <string name="signup_username">"  *Username"</string>
+    <string name="signup_email">"  *Email"</string>
+    <string name="signup_pass">"  *Password"</string>
+    <string name="signup_confirm">"  *Confirm Password"</string>
+    <string name="signup_createAcc">Create Account</string>
+
+    <!-- Toast messages -->
+
+    <string name="add_added">Added item successfuly</string>
+    <string name="add_uploadfailed">Error: Could not upload item</string>
+    <string name="add_wrongformat">One or more of the fields/image are in wrong format</string>
+
+    <string name="create_format">Please fill all fields in correct format.</string>
+    <string name="create_chooseall">Please choose all items.</string>
+    <string name="create_addeduniform">Added uniform successfuly</string>
+    <string name="create_errorupload">Error: Could not upload uniform</string>
+    <string name="create_errorgenerate">Error: Could not generate random outfit</string>
+
+    <string name="param_noresults">No results for this params</string>
+    <string name="param_sharesucces">share succes</string>
+    <string name="param_sharefail">share error</string>
+    <string name="param_sharecancel">share cancel</string>
+    <string name="param_selectout">Please select outfit to share</string>
+    <string name="param_device">"Your device don't support speech input"</string>
+
+    <string name="list_name">"Name: "</string>
+    <string name="list_type">"Type: "</string>
+    <string name="list_color">"Color: "</string>
+    <string name="list_season">"Season: "</string>
+
+    <string name="items_noitems">"There are no items."</string>
+
+    <string name="main_details">"Wrong details"</string>
+    <string name="main_length">"Username or Password must be 5 chars or greater"</string>
+
+    <string name="signup_passmatch">"Both passwords doesnt match"</string>
+    <string name="signup_maxlen">"Username length is 20 char maximum"</string>
+    <string name="signup_invalidemail">"Invalid email"</string>
+    <string name="signup_shortpass">"Password is to short"</string>
+    <string name="signup_useralready">"Username already registered"</string>
+    <string name="signup_succes">"User registered succesfully"</string>
+
+
+</resources>

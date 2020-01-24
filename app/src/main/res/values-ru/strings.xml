@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">ST-Fashion</string>
+
+    <string name="title_activity_menu">menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="facebook_app_id">1818549031610787</string>
+    <string name="facebook_protocol">fb1818549031610787</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="home_welcome">Добро пожаловать в приложение ST-Fashion. \ n \ n Начните работать с меню!</string>
+
+    <string name="params_season">*сезон(spring/summer/autumn/winter)</string>
+    <string name="params_color">*цвет(black/white/color)</string>
+    <string name="params_search">Поиск результатов</string>
+    <string name="params_share">Поделиться в facebook</string>
+
+    <string name="choose_num">"номер одежды: "</string>
+    <string name="choose_season">"сезон: "</string>
+    <string name="choose_color">"цвет: "</string>
+
+    <string name="create_top">Выберите Топ</string>
+    <string name="create_bottom">Выберите Низ</string>
+    <string name="create_shoes">Выбрать обувь</string>
+    <string name="create_season">*сезон(spring/summer/autumn/winter)</string>
+    <string name="create_color">*цвет(black/white/color)</string>
+    <string name="create_save">Сохранить</string>
+    <string name="create_random">случайный</string>
+    <string name="create_pictop">(Прокрутите вниз, чтобы узнать больше) \n\n\n\n Топ</string>
+    <string name="create_picbottom">Низ</string>
+    <string name="create_picshoes">обувь</string>
+
+    <string name="add_device">Добавить фото с устройства</string>
+    <string name="add_camera">Добавить фото с помощью камеры</string>
+    <string name="add_name">*Имя элемента</string>
+    <string name="add_type">*Тип (top/bottom/shoes)</string>
+    <string name="add_color">*цвет(black/white/color)</string>
+    <string name="add_season">*сезон(spring/summer/autumn/winter)</string>
+    <string name="add_save">Сохранить Пункт</string>
+    <string name="add_scroll">(Прокрутите вниз, чтобы увидеть полную картину) \n\n</string>
+
+    <string name="menu_home">ST-Fashion</string>
+    <string name="menu_add_items">Добавить товары</string>
+    <string name="menu_create">Создать повседневный наряд</string>
+    <string name="menu_choose">Выберите существующий наряд</string>
+    <string name="menu_params">Выберите наряд с параметрами</string>
+    <string name="menu_exit">Выйти</string>
+    <string name="menu_other">Другой</string>
+
+    <string name="signin_btnIn">Войти в систему</string>
+    <string name="signin_btnUp">Зарегистрируйтесь сейчас</string>
+    <string name="signin_btnLang">Изменить язык</string>
+    <string name="signin_textUser">"*Имя пользователя"</string>
+    <string name="signin_textPass">"*Пароль"</string>
+
+    <string name="signup_username">"*Имя пользователя"</string>
+    <string name="signup_email">"*Эл. адрес"</string>
+    <string name="signup_pass">"*Пароль"</string>
+    <string name="signup_confirm">"*Подтвердите Пароль"</string>
+    <string name="signup_createAcc">Регистрация</string>
+
+    <!-- Toast messages -->
+
+    <string name="add_added">Добавлен товар успешно</string>
+    <string name="add_uploadfailed">Ошибка: не удалось загрузить элемент</string>
+    <string name="add_wrongformat">Одно или несколько полей / изображений имеют неправильный формат</string>
+
+    <string name="create_format">Пожалуйста, заполните все поля в правильном формате.</string>
+    <string name="create_chooseall">Пожалуйста, выберите все предметы.</string>
+    <string name="create_addeduniform">Добавлена ​​форма успешно</string>
+    <string name="create_errorupload">Ошибка: не удалось загрузить форму</string>
+    <string name="create_errorgenerate">Ошибка: не удалось создать случайный наряд</string>
+
+    <string name="param_noresults">Нет результатов для этого параметра</string>
+    <string name="param_sharesucces">поделиться успехом</string>
+    <string name="param_sharefail">поделиться ошибкой</string>
+    <string name="param_sharecancel">Поделиться отменить</string>
+    <string name="param_selectout">Пожалуйста, выберите наряд, чтобы поделиться</string>
+    <string name="param_device">"Ваше устройство не поддерживает речевой ввод"</string>
+
+    <string name="list_name">"имя: "</string>
+    <string name="list_type">"Тип: "</string>
+    <string name="list_color">"цвет: "</string>
+    <string name="list_season">"сезон: "</string>
+
+    <string name="items_noitems">"Там нет товаров."</string>
+
+    <string name="main_details">"Неправильные детали"</string>
+    <string name="main_length">"Имя пользователя или пароль должны быть от 5 символов"</string>
+
+    <string name="signup_passmatch">"Оба пароля не совпадают"</string>
+    <string name="signup_maxlen">"Длина имени пользователя не более 20 символов"</string>
+    <string name="signup_invalidemail">"Неверный адрес электронной почты"</string>
+    <string name="signup_shortpass">"Пароль короткий"</string>
+    <string name="signup_useralready">"Имя пользователя уже зарегистрировано"</string>
+    <string name="signup_succes">"Пользователь успешно зарегистрирован"</string>
+
+
+</resources>

@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">ST-Fashion</string>
+
+    <string name="title_activity_menu">menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="facebook_app_id">1818549031610787</string>
+    <string name="facebook_protocol">fb1818549031610787</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="home_welcome">ברוכים הבאים לאפליקציית ST-Fashion. \n\nתתחילו לעבוד עכשיו עם התפריט!</string>
+
+    <string name="params_season">*עונה(spring/summer/autumn/winter)</string>
+    <string name="params_color">*צבע(black/white/color)</string>
+    <string name="params_search">"חפש תוצאות"</string>
+    <string name="params_share">"שתף באמצעות FACEBOOK"</string>
+
+    <string name="choose_num">"תלבושת מספר: "</string>
+    <string name="choose_season">"עונה: "</string>
+    <string name="choose_color">"צבע: "</string>
+
+    <string name="create_top">"בחר חולצה"</string>
+    <string name="create_bottom">"בחר מכנס"</string>
+    <string name="create_shoes">"בחר נעליים"</string>
+    <string name="create_season">*עונה(spring/summer/autumn/winter)</string>
+    <string name="create_color">*צבע(black/white/color)</string>
+    <string name="create_save">"שמור"</string>
+    <string name="create_random">"אקראי"</string>
+    <string name="create_pictop">(גלול למטה לראות עוד) \n\n\n\n חולצה</string>
+    <string name="create_picbottom">"מכנס"</string>
+    <string name="create_picshoes">"נעליים"</string>
+
+    <string name="add_device">"העלאת תמונה מהמכשיר"</string>
+    <string name="add_camera">"העלאת תמונה מהמצלמה"</string>
+    <string name="add_name">*שם החפץ</string>
+    <string name="add_type">*סוג(top/bottom/shoes)</string>
+    <string name="add_color">*צבע(black/white/color)</string>
+    <string name="add_season">*עונה(spring/summer/autumn/winter)</string>
+    <string name="add_save">"שמור פריט"</string>
+    <string name="add_scroll">(גלול למטה כדי לראות את כל התמונה) \n\n</string>
+
+    <string name="menu_home">ST-Fashion</string>
+    <string name="menu_add_items">"הוסף פריטים"</string>
+    <string name="menu_create">"צור תלבושת יומית"</string>
+    <string name="menu_choose">"בחר תלבושת קיימת"</string>
+    <string name="menu_params">"בחר תלבושת עם פרמטרים"</string>
+    <string name="menu_exit">"התנתק"</string>
+    <string name="menu_other">"אחר"</string>
+
+    <string name="signin_btnIn">"התחבר"</string>
+    <string name="signin_btnUp">"הירשמם עכשיו"</string>
+    <string name="signin_btnLang">"שינוי שפה"</string>
+    <string name="signin_textUser">"*שם משתמש"</string>
+    <string name="signin_textPass">"*סיסמה"</string>
+
+    <string name="signup_username">"*שם משתמש"</string>
+    <string name="signup_email">"*אימייל"</string>
+    <string name="signup_pass">"*סיסמה"</string>
+    <string name="signup_confirm">"*אימות סיסמה"</string>
+    <string name="signup_createAcc">"צור משתמש"</string>
+
+    <!-- Toast messages -->
+
+    <string name="add_added">"הפריט נוסף בהצלחה"</string>
+    <string name="add_uploadfailed">"לא הייתה אפשרות להוסיף את הפריט"</string>
+    <string name="add_wrongformat">"אחד מהשדות בפורמט שגוי"</string>
+
+    <string name="create_format">"בבקשה למלא את כל השדות באופן תקין"</string>
+    <string name="create_chooseall">"בבקשה לבחור את כל הפריטים"</string>
+    <string name="create_addeduniform">"התלבושת נוספה בהצלחה"</string>
+    <string name="create_errorupload">"קרתה תקלה בעת העלאת התלבושת"</string>
+    <string name="create_errorgenerate">"תקלה ביצירת תלבושת אקראית"</string>
+
+    <string name="param_noresults">"אין תוצאות לפרמטרים אלו"</string>
+    <string name="param_sharesucces">"שיתוף הצליח"</string>
+    <string name="param_sharefail">"שיתוף נכשל"</string>
+    <string name="param_sharecancel">"שיתוף בוטל"</string>
+    <string name="param_selectout">"אנא בחר תלבושת לשיתוף"</string>
+    <string name="param_device">"המכשיר אינו תומך בזיהוי קולי"</string>
+
+    <string name="list_name">"שם: "</string>
+    <string name="list_type">"סוג: "</string>
+    <string name="list_color">"צבע: "</string>
+    <string name="list_season">"עונה: "</string>
+
+    <string name="items_noitems">"אין פה פריטים"</string>
+
+    <string name="main_details">"פרטים שגויים"</string>
+    <string name="main_length">"שם משתמש או סיסמה צריכים להיות באורך גדול מ 5"</string>
+
+    <string name="signup_passmatch">"שתי הסיסמאות לא תואמות"</string>
+    <string name="signup_maxlen">"אורך שם המשתמש 20 תווים לכל היותר"</string>
+    <string name="signup_invalidemail">"אימייל לא תקין"</string>
+    <string name="signup_shortpass">"סיסמה קצרה מידי"</string>
+    <string name="signup_useralready">"שם המשתמש כבר רשום"</string>
+    <string name="signup_succes">"המשתמש נרשם בהצלחה"</string>
+
+
+</resources>
